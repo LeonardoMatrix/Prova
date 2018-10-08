@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\Laboratorio\DadosEntityFramework\bin\Debug\DadosEntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\DadosEntityFramework\bin\Debug\DadosEntityFramework.pdb
+C:\Users\aluno\source\repos\Laboratorio\DadosEntityFramework\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Laboratorio\DadosEntityFramework\obj\Debug\DadosEntityFramework.dll
+C:\Users\aluno\source\repos\Laboratorio\DadosEntityFramework\obj\Debug\DadosEntityFramework.pdb

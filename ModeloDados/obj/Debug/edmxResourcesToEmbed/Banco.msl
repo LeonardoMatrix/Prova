@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_LaboratorioModelStoreContainer" CdmEntityContainer="DB_LaboratorioEntities">
+    <EntitySetMapping Name="tb_laboratorio">
+      <EntityTypeMapping TypeName="DB_LaboratorioModel.tb_laboratorio">
+        <MappingFragment StoreEntitySet="tb_laboratorio">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="qtdComputadores" ColumnName="qtdComputadores" />
+          <ScalarProperty Name="qtdAlunos" ColumnName="qtdAlunos" />
+          <ScalarProperty Name="projetor" ColumnName="projetor" />
+          <ScalarProperty Name="software1" ColumnName="software1" />
+          <ScalarProperty Name="software2" ColumnName="software2" />
+          <ScalarProperty Name="software3" ColumnName="software3" />
+          <ScalarProperty Name="sistemaOperacional" ColumnName="sistemaOperacional" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
